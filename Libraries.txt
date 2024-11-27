@@ -1,0 +1,8 @@
+yfinance
+streamlit
+pandas
+numpy
+plotly.graph_objects
+plotly.subplots
+scipy.stats
+matplotlib.pyplot
