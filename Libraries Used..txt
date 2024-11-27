@@ -5,4 +5,4 @@ numpy
 plotly.graph_objects 
 plotly.subplots 
 scipy.stats 
-matplotlib.pyplot as plt
+matplotlib.pyplot
