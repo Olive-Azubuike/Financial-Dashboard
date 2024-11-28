@@ -1,4 +1,4 @@
-This project involves creating a financial dashboard using Python, with data sourced from Yahoo Finance.
+This project was about creating a financial dashboard using Python, with data sourced from Yahoo Finance.
 The dashboard is presented on Streamlit and features interactive elements. It provides stock information for all S&P 500 companies.
 
 The first tab is a summary, which includes the company profile, description, major shareholders, and a stock price chart. Additionally, 
